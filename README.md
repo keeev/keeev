@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Bardo](https://bardoapp.com), [GROW](https://grow.do) and as a freelance Product Designer and Developer.
+- 🔭 I’m currently working on [Bardo](https://bardoapp.com) and as a freelance Product Designer and Developer.
 - 👯 I’m looking to collaborate on great ideas that impact the society in a good way. 
 
 <!--
