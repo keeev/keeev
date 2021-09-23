@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Bardo](https://bardoapp.com) and as a freelance Product Designer and Developer.
-- 👯 I’m looking to collaborate on great ideas that impact the society in a good way. 
+- 👯 I’m looking to collaborate on great ideas that impact the society in a good way.
+- Feel free to follow me on [Twitter](https://twitter.com/keeev) and [Dribbble](https://dribbble.com/keeev) or check my past on [LinkedIn](https://www.linkedin.com/in/augusteight/) 
 
 <!--
 **keeev/keeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
