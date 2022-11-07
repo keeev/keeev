@@ -2,7 +2,11 @@
 
 - 🔭 I’m currently working on [Bardo](https://bardoapp.com) and as a freelance Product Designer and Developer.
 - 👯 I’m looking to collaborate on great ideas that impact the society in a good way.
-- Feel free to follow me on [Twitter](https://twitter.com/keeev) and [Dribbble](https://dribbble.com/keeev) or check my past on [LinkedIn](https://www.linkedin.com/in/augusteight/) 
+- Feel free to follow me on [Twitter](https://twitter.com/keeev).
+
+
+I am open to considering positions as a Product Designer at the moment.
+Or if you want to work on exciting projects together reach out via DM on [Twitter](https://twitter.com/keeev) or via [Email](mailto:hi@augusteight.at), you can also check out my past on [LinkedIn](https://www.linkedin.com/in/augusteight/).
 
 <!--
 **keeev/keeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
